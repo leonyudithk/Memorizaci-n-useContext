@@ -16,8 +16,8 @@ const NavBars = () => {
                             <Nav.Link href="#link"><Link to="/useMemo">UseMemo</Link></Nav.Link>
                             <Nav.Link href="#link"><Link to="/useCallback">UseCallback</Link></Nav.Link>
                             <Nav.Link href="#link"><Link to="/padre">Ejerc Independi </Link></Nav.Link>
-                            <Nav.Link href="#link"><Link to="/login">Login </Link></Nav.Link>
-                            <Nav.Link href="#link"><Link to="/salir">About </Link></Nav.Link>
+                            
+                            <Nav.Link href="#link"><Link to="/homeProyecto">useContext </Link></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
